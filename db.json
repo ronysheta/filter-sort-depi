@@ -1,0 +1,19 @@
+{
+  "tasks":
+  [
+    {
+    "title": "Task 1",
+    "status": "Pending",
+    "priority": "High",
+    "category": "Development",
+    "dueDate": "2024-10-25"
+  },
+  {
+    "title": "Task 2",
+    "status": "Complete",
+    "priority": "Medium",
+    "category": "Design",
+    "dueDate": "2024-10-20"
+  }
+]
+}
